@@ -3128,3 +3128,7 @@ legend {
 .modal .close {
   color: #333333;
 }
+
+.iconContainer {
+    float:left;
+}
