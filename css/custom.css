@@ -3132,3 +3132,7 @@ legend {
 .iconContainer {
     float:left;
 }
+
+.iconContainer + .iconContainer {
+    margin-left: 30px;
+}
